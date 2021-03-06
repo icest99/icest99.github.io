@@ -1,0 +1,53 @@
+.header-p {
+  font-family: Raleway;
+  font-size: 1.26rem;
+}
+
+h1 {
+  margin-block-end: 0em;
+  margin-block-start: 9.5%;
+}
+
+.header-h1 {
+  font-size: 2.2rem;
+}
+
+.hi-p {
+  color: white;
+  font-size: 1.05rem;
+  font-family: Raleway;
+}
+
+.hi-h2 {
+  color: white;
+  font-size: 1.7rem;
+}
+
+.bg-purple {
+  position: relative;
+  z-index: -1;
+  background-color: #7510f7;
+}
+
+.app {
+  overflow-x: hidden;
+}
+
+.img-icon {
+  width: 25%;
+  height: auto;
+}
+
+.skills > p {
+  font-family: Raleway;
+  font-size: 1rem;
+}
+
+.pj-class > h2 {
+  font-size: 1.8rem;
+}
+
+.pj-class > p {
+  font-size: 1.2rem;
+  font-family: Raleway;
+}
