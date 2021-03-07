@@ -16,11 +16,13 @@ h1 {
   color: white;
   font-size: 1.05rem;
   font-family: Raleway;
+  padding-bottom: 5rem;
 }
 
 .hi-h2 {
   color: white;
   font-size: 1.7rem;
+  font-weight: bold;
 }
 
 .bg-purple {

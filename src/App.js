@@ -1,5 +1,8 @@
 import "./App.css";
 import CssBaseline from "@material-ui/core/CssBaseline";
+import penIcon from "./icon-pen.png";
+import codeIcon from "./icon-code.png";
+import uniIcon from "./icon-university.png";
 import {
   Button,
   Grid,
@@ -82,8 +85,8 @@ function App() {
           style={{ height: "auto", textAlign: "center" }}
         >
           <Grid item xs={12}>
-            <h1 className="header-h1" variant="h4">
-              Aiming to be become Full-Stack Developer HOLY SHITT IT"S WORKING
+            <h1 className="header-h1">
+              Aiming to be become Full-Stack Developer
             </h1>
           </Grid>
           <Grid item xs={12} className="header-p">
@@ -110,17 +113,25 @@ function App() {
               paddingBottom: "100px",
             }}
           >
-            <Typography className="hi-h2">
+            <div
+              variant="h4"
+              className="hi-h2"
+              style={{ marginLeft: "10%", marginRight: "10%" }}
+            >
               Hi, I'm Kiattipan. Nice to see you.
-            </Typography>
-            <Typography className="hi-p">
-              Since beginning my journey as a freelance designer nearly 10 years
-              ago, I've done remote work for agencies, consulted for startups,
-              and collaborated with talented people to create digital products
-              for both business and consumer use. I'm quietly confident,
-              naturally curious, and perpetually working on improving my chops
-              one design problem at a time.
-            </Typography>
+            </div>
+            <p className="hi-p" variant="body">
+              Since I gotten into the university, I have been working as graphic
+              designer or leading the PR team during my extracurriculum
+              activity, a few months ago, I decide to start learning how to
+              coding almost everyday for the past months, I skipped a lot of
+              class, and spent that time learning how to code. Combining my
+              ability to do Graphic Design, and my obsession with coding, I knew
+              I will become a great developer in the near future. Because I
+              won't allow myself to be bad at coding, I want to improve, I want
+              to be better, because coding is cool, it will open my career path,
+              and ultiamtely, changes my life.
+            </p>
           </Grid>
         </Grid>
         <div
@@ -151,7 +162,7 @@ function App() {
                 }}
               >
                 <Grid item xs={12} sm={3} className="skills">
-                  <img src="/images/icon-pen.png" className="img-icon" alt="" />
+                  <img src={penIcon} className="img-icon" />
                   <h2>Design Skill</h2>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -170,11 +181,7 @@ function App() {
                 </Grid>
                 <Divider xs={1} sm={1} orientation="vertical" flexItem />
                 <Grid item xs={12} sm={3} className="skills">
-                  <img
-                    src="/images/icon-code.png"
-                    className="img-icon"
-                    alt=""
-                  />
+                  <img src={codeIcon} className="img-icon" alt="" />
                   <h2>Coding Skill</h2>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -193,11 +200,7 @@ function App() {
                 </Grid>
                 <Divider xs={1} sm={1} orientation="vertical" flexItem />
                 <Grid item xs={12} sm={3} className="skills">
-                  <img
-                    src="/images/icon-university.png"
-                    className="img-icon"
-                    alt=""
-                  />
+                  <img src={uniIcon} className="img-icon" alt="" />
                   <h2>Certificates</h2>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
