@@ -116,7 +116,7 @@ function App() {
             <div
               variant="h4"
               className="hi-h2"
-              style={{ marginLeft: "10%", marginRight: "10%" }}
+              style={{ marginLeft: "5%", marginRight: "5%" }}
             >
               Hi, I'm Kiattipan. Nice to see you.
             </div>
