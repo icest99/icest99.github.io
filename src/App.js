@@ -83,7 +83,7 @@ function App() {
         >
           <Grid item xs={12}>
             <h1 className="header-h1" variant="h4">
-              Aiming to be become Full-Stack Developer
+              Aiming to be become Full-Stack Developer HOLY SHITT IT"S WORKING
             </h1>
           </Grid>
           <Grid item xs={12} className="header-p">
