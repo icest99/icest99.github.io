@@ -4,10 +4,6 @@ html {
   max-width: fit-content;
 }
 
-* {
-  overflow-x: hidden;
-}
-
 .header-p {
   font-family: Raleway;
   font-size: 1.26rem;
