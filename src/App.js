@@ -544,26 +544,26 @@ function App() {
           </h2>
         </Grid>
         <Grid item xs={4}>
+          <img src={email} className="footer-img" alt="" />
+        </Grid>
+        <Grid item xs={4}>
           <Link href="https://line.me/ti/p/~icest0">
-            <img src={lineme} className="footer-img" />
+            <img src={lineme} className="footer-img" alt="" />
           </Link>
         </Grid>
         <Grid item xs={4}>
           <Link href="https://www.facebook.com/ice.st0/">
-            <img src={facebook} className="footer-img" />
+            <img src={facebook} className="footer-img" alt="" />
           </Link>
         </Grid>
         <Grid item xs={4}>
-          <img src={email} className="footer-img" />
+          <Typography paragraph>mapaambiguous@gmail.com</Typography>
         </Grid>
         <Grid item xs={4}>
           icest0
         </Grid>
         <Grid item xs={4}>
           Kiattipan Muanghai
-        </Grid>
-        <Grid item xs={4}>
-          mapaambiguous@gmail.com
         </Grid>
       </Grid>
     </div>
