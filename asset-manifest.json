@@ -1,20 +1,30 @@
 {
   "files": {
-    "main.css": "/icest99.github.io/static/css/main.98f5e5a9.chunk.css",
-    "main.js": "/icest99.github.io/static/js/main.dadd35e0.chunk.js",
-    "main.js.map": "/icest99.github.io/static/js/main.dadd35e0.chunk.js.map",
+    "main.css": "/icest99.github.io/static/css/main.38fd10a4.chunk.css",
+    "main.js": "/icest99.github.io/static/js/main.aafe2e8a.chunk.js",
+    "main.js.map": "/icest99.github.io/static/js/main.aafe2e8a.chunk.js.map",
     "runtime-main.js": "/icest99.github.io/static/js/runtime-main.fb8f61f3.js",
     "runtime-main.js.map": "/icest99.github.io/static/js/runtime-main.fb8f61f3.js.map",
-    "static/js/2.b6964817.chunk.js": "/icest99.github.io/static/js/2.b6964817.chunk.js",
-    "static/js/2.b6964817.chunk.js.map": "/icest99.github.io/static/js/2.b6964817.chunk.js.map",
+    "static/js/2.f219166a.chunk.js": "/icest99.github.io/static/js/2.f219166a.chunk.js",
+    "static/js/2.f219166a.chunk.js.map": "/icest99.github.io/static/js/2.f219166a.chunk.js.map",
     "index.html": "/icest99.github.io/index.html",
-    "static/css/main.98f5e5a9.chunk.css.map": "/icest99.github.io/static/css/main.98f5e5a9.chunk.css.map",
-    "static/js/2.b6964817.chunk.js.LICENSE.txt": "/icest99.github.io/static/js/2.b6964817.chunk.js.LICENSE.txt"
+    "static/css/main.38fd10a4.chunk.css.map": "/icest99.github.io/static/css/main.38fd10a4.chunk.css.map",
+    "static/js/2.f219166a.chunk.js.LICENSE.txt": "/icest99.github.io/static/js/2.f219166a.chunk.js.LICENSE.txt",
+    "static/media/Todo-List.8b151ed9.gif": "/icest99.github.io/static/media/Todo-List.8b151ed9.gif",
+    "static/media/documentation.3db6a316.gif": "/icest99.github.io/static/media/documentation.3db6a316.gif",
+    "static/media/email.41140292.png": "/icest99.github.io/static/media/email.41140292.png",
+    "static/media/javascript-calculator.6ea4b210.gif": "/icest99.github.io/static/media/javascript-calculator.6ea4b210.gif",
+    "static/media/leonardo.d0c25162.gif": "/icest99.github.io/static/media/leonardo.d0c25162.gif",
+    "static/media/line-me.b17a7db9.png": "/icest99.github.io/static/media/line-me.b17a7db9.png",
+    "static/media/markdown.cd42b029.gif": "/icest99.github.io/static/media/markdown.cd42b029.gif",
+    "static/media/quote-machine.7c8c1fe4.gif": "/icest99.github.io/static/media/quote-machine.7c8c1fe4.gif",
+    "static/media/survey.795aba5f.gif": "/icest99.github.io/static/media/survey.795aba5f.gif",
+    "static/media/touch-pad.fed03f36.gif": "/icest99.github.io/static/media/touch-pad.fed03f36.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.fb8f61f3.js",
-    "static/js/2.b6964817.chunk.js",
-    "static/css/main.98f5e5a9.chunk.css",
-    "static/js/main.dadd35e0.chunk.js"
+    "static/js/2.f219166a.chunk.js",
+    "static/css/main.38fd10a4.chunk.css",
+    "static/js/main.aafe2e8a.chunk.js"
   ]
 }
