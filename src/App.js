@@ -103,7 +103,7 @@ function App() {
         >
           <Grid item xs={12}>
             <h1 className="header-h1">
-              Aiming to be become Full-Stack Web Developer
+              Aiming to become Full-Stack Web Developer
             </h1>
           </Grid>
           <Grid item xs={12} className="header-p">
