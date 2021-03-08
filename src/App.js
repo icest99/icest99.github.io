@@ -557,7 +557,8 @@ function App() {
           </Link>
         </Grid>
         <Grid item xs={4}>
-          <Typography paragraph>mapaambiguous@gmail.com</Typography>
+          <p>mapaambiguous</p>
+          <p>@gmail.com</p>
         </Grid>
         <Grid item xs={4}>
           icest0
