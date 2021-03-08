@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/icest99.github.io/static/css/main.8dfec563.chunk.css",
+    "main.css": "/icest99.github.io/static/css/main.9c33896f.chunk.css",
     "main.js": "/icest99.github.io/static/js/main.aafe2e8a.chunk.js",
     "main.js.map": "/icest99.github.io/static/js/main.aafe2e8a.chunk.js.map",
     "runtime-main.js": "/icest99.github.io/static/js/runtime-main.fb8f61f3.js",
@@ -8,7 +8,7 @@
     "static/js/2.f219166a.chunk.js": "/icest99.github.io/static/js/2.f219166a.chunk.js",
     "static/js/2.f219166a.chunk.js.map": "/icest99.github.io/static/js/2.f219166a.chunk.js.map",
     "index.html": "/icest99.github.io/index.html",
-    "static/css/main.8dfec563.chunk.css.map": "/icest99.github.io/static/css/main.8dfec563.chunk.css.map",
+    "static/css/main.9c33896f.chunk.css.map": "/icest99.github.io/static/css/main.9c33896f.chunk.css.map",
     "static/js/2.f219166a.chunk.js.LICENSE.txt": "/icest99.github.io/static/js/2.f219166a.chunk.js.LICENSE.txt",
     "static/media/Todo-List.8b151ed9.gif": "/icest99.github.io/static/media/Todo-List.8b151ed9.gif",
     "static/media/documentation.3db6a316.gif": "/icest99.github.io/static/media/documentation.3db6a316.gif",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.fb8f61f3.js",
     "static/js/2.f219166a.chunk.js",
-    "static/css/main.8dfec563.chunk.css",
+    "static/css/main.9c33896f.chunk.css",
     "static/js/main.aafe2e8a.chunk.js"
   ]
 }
