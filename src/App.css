@@ -1,5 +1,11 @@
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
+  max-width: fit-content;
+}
+
+* {
+  overflow-x: hidden;
 }
 
 .header-p {
